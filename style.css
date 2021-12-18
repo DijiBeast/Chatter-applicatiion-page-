@@ -1,0 +1,18 @@
+body
+{
+background-image: linear-gradient(red, orange, yellow, green, blue, purple);
+
+
+}
+
+
+
+#user_name
+{
+width: 200px;
+}
+
+.sp
+{
+margin: 10px;
+}
